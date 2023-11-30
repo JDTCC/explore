@@ -1,30 +1,5 @@
 ---
 items:
- - solidjs/solid
- - marko-js/marko
- - MithrilJS/mithril.js
- - angular/angular
- - emberjs/ember.js
- - knockout/knockout
- - tastejs/todomvc
- - spine/spine
- - vuejs/vue
- - Polymer/polymer
- - facebook/react
- - finom/seemple
- - aurelia/framework
- - optimizely/nuclear-js
- - jashkenas/backbone
- - dojo/dojo
- - jorgebucaran/hyperapp
- - riot/riot
- - Daemonite/material
- - lit/lit
- - aurelia/aurelia
- - sveltejs/svelte
- - neomjs/neo
- - preactjs/preact
- - ionic-team/stencil
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
 ---
